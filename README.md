@@ -1,5 +1,7 @@
 # ColorClockAugu
-Allumage d'une LED en fonction de l'heure : Rouge-> il faut être couché, levé autorisé.
+Allumage d'une LED en fonction de l'heure : 
+Rouge -> il faut être couché
+Vert  -> levé autorisé.
 
 Composants :
 Arduino Nano chinois                     2,5€
